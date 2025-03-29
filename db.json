@@ -1,0 +1,29 @@
+{
+    "tracks": [
+        {
+            "file": "Lucky-Dube-One-Love.mp3",
+            "image": "lucky.jpg",
+            "name": "One-Love",
+            "artist": "Lucky Dube"
+          },
+      {
+        "file": "King Kaka Ft Scar Mkadinali & Sewersydaa - Soko.mp3",
+        "image": "soko.jfif",
+        "name": "Soko",
+        "artist": "Wakadinali"
+      },
+      {
+        "file": "Marioo-Nairobi-Feat-Bien.mp3",
+        "image": "mario.jfif",
+        "name": "Marioo-Nairobi-Feat-Bien",
+        "artist": "Marioo"
+      },
+      {
+        "file": "WAKADINALI-Mariwanna.mp3",
+        "image": "wakad.jfif",
+        "name": "Mariwanna",
+        "artist": "Wakadinali"
+      }
+    ]
+  }
+  
